@@ -1,0 +1,23 @@
+{
+    "items": [
+    {
+        "name": "Santa Monica",
+        "description": "Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum",
+        "price": 499,
+        "moreInfo": "Dolor sit amet lorem ipsum"
+    },
+        
+    {   
+        "name": "Recife",
+        "description": "Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum",
+        "price": 499,
+        "moreInfo": "Dolor sit amet lorem ipsum"
+    },
+        
+    {     
+        "name": "Long Beach",
+        "description": "Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum",
+        "price": 499,
+        "moreInfo": "Dolor sit amet lorem ipsum"
+    }]
+}
